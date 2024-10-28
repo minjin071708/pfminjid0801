@@ -107,7 +107,7 @@ export default function Projects() {
   return (
     <>
     <SimpleLayout
-      title="회사 업무적으로 만듬"
+      title="회사에서 업무적으로 만든 사이트"
       intro="경력 2년 동안 업무적으로 만든 사이트들 입니다. 기존 회사에서 문제가 될만한 것은 올리지 못했습니다."
     >
       <ul
