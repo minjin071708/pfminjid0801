@@ -137,7 +137,7 @@ export default function Projects() {
       </ul>
     </SimpleLayout>
     <SimpleLayout
-   title="개인적으로 만듬"
+   title="개인적으로 만든 사이트"
    intro="개인 실습으로 만들었던 대표적인 사이트 입니다">
     <ul
         role="list"
