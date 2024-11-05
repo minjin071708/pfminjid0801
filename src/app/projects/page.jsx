@@ -9,7 +9,13 @@ import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const techworld = [
-
+  {
+    name: '로봇 두뇌 설계 방법',
+    description:
+      '로봇 두뇌 설계 방법. #HTML #SCSS #JS #ASP',
+    link: { href: 'https://techworld.co.kr/event/congatec/index.html', label: '로봇 두뇌 설계 방법' },
+    logo: logoOpenShuttle,
+  },
 
   {
     name: 'Ai seminar 소개 등록 결제',
