@@ -12,7 +12,7 @@ const techworld = [
   {
     name: '로봇 두뇌 설계 방법',
     description:
-      '로봇 두뇌 설계 방법. #react18 #tailwind #axios' 
+      '로봇 두뇌 설계 방법. #react18 #tailwind #axios',
     link: { href: 'https://techworld.co.kr/event/congatec/index.html', label: '로봇 두뇌 설계 방법' },
     logo: logoOpenShuttle,
   },
