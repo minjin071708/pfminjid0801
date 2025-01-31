@@ -68,7 +68,7 @@ const designs = [
     name: '디자인 포트폴리오 보기',
     description:
       '디자인 포트폴리오 확인하기',
-    link: { href: 'https://minjee9009.myportfolio.com', label: 'design' },
+    link: { href: 'https://minjin071708.myportfolio.com/', label: 'design' },
     logo: logoCosmos,
   },
 
