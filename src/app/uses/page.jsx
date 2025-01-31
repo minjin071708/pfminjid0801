@@ -36,7 +36,7 @@ export default function Uses() {
     >
       <div className="space-y-20">
         <ToolsSection title="2024.12.11 ~ 재직중 ">
-          <Tool title="새 스타트업 IT회사">
+          <Tool title="새임 스타트업 IT회사">
           현대 건설의 스마트 안전교육 시스템 구축
           프로젝트의 디자인, 퍼블리싱 담당
           </Tool>
