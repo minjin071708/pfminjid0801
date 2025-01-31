@@ -144,6 +144,15 @@ function Role({ role }) {
 
 function Resume() {
   let resume = [
+     {
+      company: '새임 스타트업 IT회사',
+      title: '디자인 개발팀',
+      logo: logoPlanetaria,
+      start: '2024',
+      end: {
+        label: '2025',
+        dateTime: new Date().getFullYear().toString(),
+      },
     {
       company: '테크월드 메디어 회사',
       title: '디자인 개발팀',
@@ -161,6 +170,7 @@ function Resume() {
       start: '2022',
       end: '2022',
     },
+   
   ]
 
   return (
