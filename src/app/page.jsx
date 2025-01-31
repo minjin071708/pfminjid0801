@@ -162,7 +162,7 @@ function Resume() {
         label: 'Present',
         dateTime: new Date().getFullYear().toString(),
       },
-    },
+    
     {
       company: '타고플러스',
       title: '웹퍼블리싱',
@@ -242,7 +242,7 @@ export default async function Home() {
               icon={InstagramIcon}
             />
             <SocialLink
-              href="https://github.com/Beaka0717"
+              href="https://github.com/minjin071708"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
