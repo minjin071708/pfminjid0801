@@ -149,19 +149,15 @@ function Resume() {
       title: '디자인 개발팀',
       logo: logoPlanetaria,
       start: '2024',
-      end: {
-        label: '2025',
-        dateTime: new Date().getFullYear().toString(),
-      },
+      end: '2025',
+     },
     {
       company: '테크월드 메디어 회사',
       title: '디자인 개발팀',
       logo: logoPlanetaria,
       start: '2023',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear().toString(),
-      },
+       end: '2024',
+     },
     
     {
       company: '타고플러스',
