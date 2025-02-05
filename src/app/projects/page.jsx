@@ -13,7 +13,7 @@ const techworld = [
     name: '현대 건설 스마트 안전교육 시스템',
     description:
       '건설 현장의 근로자들이 안전 교육을 자동으로 이수하고 관리할 수 있는 시스템 (디자인 퍼블리싱)',
-    link: { href: 'https://techworld.co.kr/event/congatec/index.html', label: '로봇 두뇌 설계 방법' },
+    link: { href: 'https://hyundaiconstructiondashboard.netlify.app/', label: '로봇 두뇌 설계 방법' },
     logo: logoOpenShuttle,
   },
   {
